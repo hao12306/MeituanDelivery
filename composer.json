@@ -1,5 +1,5 @@
 {
-    "name": "aliang/meituan-delivery",
+    "name": "mxl/meituan-delivery",
     "description": "美团配送",
     "license": "MIT",
     "autoload": {
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "aliang",
+            "name": "mxl",
             "email": "1039803717@qq.com"
         }
     ],
