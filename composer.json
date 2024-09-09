@@ -1,6 +1,6 @@
 {
     "name": "miao/meituan-delivery",
-    "description": "美团配送",
+    "description": "美团配送(TP6插件)",
     "type": "library",
     "license": "MIT",
     "autoload": {
