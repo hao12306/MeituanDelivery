@@ -1,0 +1,17 @@
+{
+    "name": "aliang/meituan-delivery",
+    "description": "美团配送",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aliang\\MeituanDelivery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aliang",
+            "email": "1039803717@qq.com"
+        }
+    ],
+    "require": {}
+}
