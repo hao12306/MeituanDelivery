@@ -8,6 +8,7 @@ composer config -g repo.packagist composer https://packagist.org
 2. 安装插件
 ```
 composer require miaomiao/meituan-delivery:dev-master --ignore-platform-req=ext-swoole
+composer require miaomiao/meituan-delivery:v1.0.0 --ignore-platform-req=ext-swoole
 ```
 ## 使用示例
 ```

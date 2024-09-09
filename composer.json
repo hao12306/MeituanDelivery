@@ -1,15 +1,16 @@
 {
-    "name": "miaomiao/meituan-delivery",
+    "name": "miao/meituan-delivery",
     "description": "美团配送",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MiaoMiao\\MeituanDelivery\\": "src/"
+            "Miao\\MeituanDelivery\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "miaomiao",
+            "name": "miao",
             "email": "1039803717@qq.com"
         }
     ],
