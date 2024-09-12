@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
  * 取餐码信息下发
  */

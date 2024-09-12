@@ -1,15 +1,13 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
- * 创建门店
+ * 修改门店
  */
-class MeituanShopCreateReq
+class MeituanShopUpdateReq
 {
     public $shop_id;
     public $shop_name;
-    public $category;
-    public $second_category;
     public $contact_name;
     public $contact_phone;
     public $contact_email;
@@ -37,22 +35,6 @@ class MeituanShopCreateReq
     public function setShopName($shop_name): void
     {
         $this->shop_name = $shop_name;
-    }
-
-    /**
-     * @param mixed $category
-     */
-    public function setCategory($category): void
-    {
-        $this->category = $category;
-    }
-
-    /**
-     * @param mixed $second_category
-     */
-    public function setSecondCategory($second_category): void
-    {
-        $this->second_category = $second_category;
     }
 
     /**

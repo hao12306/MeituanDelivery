@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace MeituanDelivery\facade;
+namespace MeituanDelivery\facades;
 
 use think\Facade;
 
@@ -16,6 +16,6 @@ class HttpFacade extends Facade
 {
     protected static function getFacadeClass()
     {
-        return 'MeituanDelivery\service\HttpService';
+        return 'MeituanDelivery\services\HttpService';
     }
 }

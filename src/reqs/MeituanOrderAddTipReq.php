@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
  * 为骑手增加小费
  */

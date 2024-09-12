@@ -1,10 +1,10 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
- * 获取骑手位置H5页面
+ * 查询餐损审核记录
  */
-class MeituanOrderRiderLocationH5urlReq
+class MeituanCompensationDetailReq
 {
     public $mt_peisong_id;
 

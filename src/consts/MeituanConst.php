@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\const;
+namespace MeituanDelivery\consts;
 
 /**
  * 静态变量

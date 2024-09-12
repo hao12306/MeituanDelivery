@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace MeituanDelivery\service;
+namespace MeituanDelivery\services;
 
 use think\Exception;
 

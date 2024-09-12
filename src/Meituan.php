@@ -2,25 +2,25 @@
 
 namespace MeituanDelivery;
 
-use MeituanDelivery\const\MeituanConst;
-use MeituanDelivery\req\MeituanCompensationAppealReq;
-use MeituanDelivery\req\MeituanCompensationApplyReq;
-use MeituanDelivery\req\MeituanCompensationDetailReq;
-use MeituanDelivery\req\MeituanFileImageUploadReq;
-use MeituanDelivery\req\MeituanMealCodeSaveMealCodeByPkgIdReq;
-use MeituanDelivery\req\MeituanOrderAddTipReq;
-use MeituanDelivery\req\MeituanOrderCreateByShopReq;
-use MeituanDelivery\req\MeituanOrderDeleteReq;
-use MeituanDelivery\req\MeituanOrderEvaluateReq;
-use MeituanDelivery\req\MeituanOrderPreCreateByShopReq;
-use MeituanDelivery\req\MeituanOrderRiderLocationH5urlReq;
-use MeituanDelivery\req\MeituanOrderRiderLocationReq;
-use MeituanDelivery\req\MeituanOrderStatusQueryReq;
-use MeituanDelivery\req\MeituanShopAreaQueryReq;
-use MeituanDelivery\req\MeituanShopBalanceQueryReq;
-use MeituanDelivery\req\MeituanShopCreateReq;
-use MeituanDelivery\req\MeituanShopQueryReq;
-use MeituanDelivery\req\MeituanShopUpdateReq;
+use MeituanDelivery\consts\MeituanConst;
+use MeituanDelivery\reqs\MeituanCompensationAppealReq;
+use MeituanDelivery\reqs\MeituanCompensationApplyReq;
+use MeituanDelivery\reqs\MeituanCompensationDetailReq;
+use MeituanDelivery\reqs\MeituanFileImageUploadReq;
+use MeituanDelivery\reqs\MeituanMealCodeSaveMealCodeByPkgIdReq;
+use MeituanDelivery\reqs\MeituanOrderAddTipReq;
+use MeituanDelivery\reqs\MeituanOrderCreateByShopReq;
+use MeituanDelivery\reqs\MeituanOrderDeleteReq;
+use MeituanDelivery\reqs\MeituanOrderEvaluateReq;
+use MeituanDelivery\reqs\MeituanOrderPreCreateByShopReq;
+use MeituanDelivery\reqs\MeituanOrderRiderLocationH5urlReq;
+use MeituanDelivery\reqs\MeituanOrderRiderLocationReq;
+use MeituanDelivery\reqs\MeituanOrderStatusQueryReq;
+use MeituanDelivery\reqs\MeituanShopAreaQueryReq;
+use MeituanDelivery\reqs\MeituanShopBalanceQueryReq;
+use MeituanDelivery\reqs\MeituanShopCreateReq;
+use MeituanDelivery\reqs\MeituanShopQueryReq;
+use MeituanDelivery\reqs\MeituanShopUpdateReq;
 
 /**
  * 美团配送 入口类

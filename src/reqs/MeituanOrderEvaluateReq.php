@@ -1,15 +1,15 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
- * 取消订单
+ * 评价骑手服务
  */
-class MeituanOrderDeleteReq
+class MeituanOrderEvaluateReq
 {
     public $delivery_id;
     public $mt_peisong_id;
-    public $cancel_reason_id;
-    public $cancel_reason;
+    public $score;
+    public $comment_content;
 
     /**
      * @param mixed $delivery_id
@@ -28,18 +28,18 @@ class MeituanOrderDeleteReq
     }
 
     /**
-     * @param mixed $cancel_reason_id
+     * @param mixed $score
      */
-    public function setCancelReasonId($cancel_reason_id): void
+    public function setScore($score): void
     {
-        $this->cancel_reason_id = $cancel_reason_id;
+        $this->score = $score;
     }
 
     /**
-     * @param mixed $cancel_reason
+     * @param mixed $comment_content
      */
-    public function setCancelReason($cancel_reason): void
+    public function setCommentContent($comment_content): void
     {
-        $this->cancel_reason = $cancel_reason;
+        $this->comment_content = $comment_content;
     }
 }

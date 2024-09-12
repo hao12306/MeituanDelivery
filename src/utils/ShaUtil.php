@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\util;
+namespace MeituanDelivery\utils;
 /**
  * 签名类
  */

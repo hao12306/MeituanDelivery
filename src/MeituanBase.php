@@ -2,9 +2,9 @@
 
 namespace MeituanDelivery;
 
-use MeituanDelivery\const\MeituanConst;
-use MeituanDelivery\facade\HttpFacade;
-use MeituanDelivery\util\ShaUtil;
+use MeituanDelivery\consts\MeituanConst;
+use MeituanDelivery\facades\HttpFacade;
+use MeituanDelivery\utils\ShaUtil;
 
 /**
  * 基类

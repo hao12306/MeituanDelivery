@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
  * 图片上传接口
  */

@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
  * 发起餐损申诉
  */

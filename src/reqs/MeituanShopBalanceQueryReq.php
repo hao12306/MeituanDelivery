@@ -1,6 +1,6 @@
 <?php
 
-namespace MeituanDelivery\req;
+namespace MeituanDelivery\reqs;
 /**
  * 查询门店账户余额
  */
