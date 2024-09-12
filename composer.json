@@ -1,6 +1,16 @@
 {
-    "name": "miaomiao/meituan-delivery",
-    "description": "美团配送(TP6插件)",
+    "name": "miaomiao/meituan-delivery-sdk",
+    "description": "美团配送(ThinkPHP插件)",
+    "keywords": [
+        "美团配送",
+        "meituan",
+        "php",
+        "插件",
+        "thinkphp",
+        "tp",
+        "delivery",
+        "sdk"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
